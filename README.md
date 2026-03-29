@@ -14,7 +14,6 @@ The focus is on creating a **robust ML pipeline** with proper experimentation an
 ---
 
 ## 🌐 Live Demo
-👉
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://california-house-price-predictor-kpg9psfdoj9vspwqjbggfk.streamlit.app/)
 
 ---
