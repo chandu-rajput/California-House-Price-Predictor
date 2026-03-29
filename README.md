@@ -40,13 +40,11 @@ The focus is on creating a **robust ML pipeline** with proper experimentation an
 ## 📁 Project Structure
 \```
 california-house-price-predictor/
-├── app\app.py
-├── model\final_model.joblib
+├── app\app.py , final_model.joblib
 ├── NoteBook\notebook.ipynb              
 ├── requirements.txt
 ├── pyproject.toml
 └── README.md
-
 \```
 
 ---
@@ -89,11 +87,3 @@ california-house-price-predictor/
 - Deployed with **Streamlit**
 
 ---
-
-## 📦 Installation
-\```bash
-git clone https://github.com/your-username/california-house-price-predictor.git
-cd california-house-price-predictor
-pip install -r requirements.txt
-streamlit run app.py         
-\```
