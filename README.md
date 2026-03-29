@@ -13,6 +13,9 @@ The focus is on creating a **robust ML pipeline** with proper experimentation an
 - Designed with a focus on real-world ML practices including reproducibility, modularity, and deployment.
 ---
 
+### 🚀 Live Demo
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://california-house-price-predictor-kpg9psfdoj9vspwqjbggfk.streamlit.app/)
+
 ## 🌐 Live Demo
 👉 [Click here to try the app](https://california-house-price-predictor-kpg9psfdoj9vspwqjbggfk.streamlit.app/)
 
