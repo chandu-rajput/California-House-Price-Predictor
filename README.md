@@ -92,8 +92,9 @@ california-house-price-predictor/
 
 ## 🎯 Key Highlights
 
-- Built a complete **end-to-end ML pipeline**
-- Applied **feature engineering (ratio features, clustering)**
+- Built a complete **end-to-end ML pipeline** using Python & scikit-learn
+- EDA on 20,000+ California housing records
+- Feature engineering — ratio features + KMeans geographic clustering
 - Compared multiple models using **cross-validation**
 - Performed **hyperparameter tuning**
 - Designed a reusable **inference pipeline**
