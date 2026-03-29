@@ -100,3 +100,8 @@ california-house-price-predictor/
 - Deployed with **Streamlit**
 
 ---
+
+## 📬 Contact
+
+If you like this project, feel free to connect!
+* Linkedin : https://www.linkedin.com/in/chandrapal-deora/
