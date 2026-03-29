@@ -45,7 +45,6 @@ User inputs housing features → Data is preprocessed → Model predicts house p
 ---
 
 ## 📁 Project Structure
-\```
 california-house-price-predictor/
 ├── app/
 │   ├── app.py
@@ -55,7 +54,6 @@ california-house-price-predictor/
 ├── requirements.txt
 ├── pyproject.toml
 └── README.md
-\```
 
 ---
 
