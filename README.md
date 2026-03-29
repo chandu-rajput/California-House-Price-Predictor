@@ -10,10 +10,17 @@ Includes data analysis, feature engineering, model selection, and deployment-rea
 This project builds a regression model to predict housing prices based on demographic and geographic features.  
 The focus is on creating a **robust ML pipeline** with proper experimentation and evaluation.
 
+- Designed with a focus on real-world ML practices including reproducibility, modularity, and deployment.
 ---
 
 ## 🌐 Live Demo
 👉 [Click here to try the app](https://california-house-price-predictor-kpg9psfdoj9vspwqjbggfk.streamlit.app/)
+
+---
+
+## ⚡ How it Works
+
+User inputs housing features → Data is preprocessed → Model predicts house price in real-time via Streamlit app
 
 ---
 
@@ -40,8 +47,11 @@ The focus is on creating a **robust ML pipeline** with proper experimentation an
 ## 📁 Project Structure
 \```
 california-house-price-predictor/
-├── app\app.py , final_model.joblib
-├── NoteBook\notebook.ipynb              
+├── app/
+│   ├── app.py
+│   └── final_model.joblib
+├── notebooks/
+│   └── notebook.ipynb              
 ├── requirements.txt
 ├── pyproject.toml
 └── README.md
@@ -66,13 +76,15 @@ california-house-price-predictor/
 - pandas
 - matplotlib
 - seaborn
-- XGBoost
+- XGBoost     (used for model comparison)
 - Streamlit       
 - joblib          
 
 ---
 
-## DataSet
+## 📊 Dataset
+
+- Source: California Housing Dataset  
 **Kaggle link:** https://www.kaggle.com/datasets/camnugent/california-housing-prices
 
 ---
