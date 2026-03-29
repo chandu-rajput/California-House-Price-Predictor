@@ -47,10 +47,10 @@ User inputs housing features → Data is preprocessed → Model predicts house p
 ## 📁 Project Structure
 california-house-price-predictor/
 - ├── app/
--    ├── app.py
--    └── final_model.joblib
+ -    ├── app.py
+ -    └── final_model.joblib
 - ├── notebooks/
--    └── notebook.ipynb              
+ -    └── notebook.ipynb              
 - ├── requirements.txt
 - ├── pyproject.toml
 - └── README.md
