@@ -13,7 +13,7 @@ The focus is on creating a **robust ML pipeline** with proper experimentation an
 ---
 
 ## 🌐 Live Demo
-👉 [Click here to try the app](https://your-app-name.streamlit.app)
+👉 [Click here to try the app]([https://your-app-name.streamlit.app](https://california-house-price-predictor-kpg9psfdoj9vspwqjbggfk.streamlit.app/))
 
 ---
 
